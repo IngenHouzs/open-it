@@ -19,6 +19,12 @@
     left:10px;
 }
 
+#yes{
+    position:absolute;
+    left:60%;
+    top:10%;
+}
+
 #wkwk{
     position:relative;
     display:flex;
